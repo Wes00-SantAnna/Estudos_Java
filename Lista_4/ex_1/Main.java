@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 import java.util.Random;
 
@@ -16,7 +17,7 @@ public class Main {
 
         int index = 1;
         for (Shape s : shapes) {
-            System.out.println("Forma " + index + " área = " + s.getArea());
+            System.out.println("Forma " + index + " area = " + s.getArea());
             index++;
         }
     }

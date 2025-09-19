@@ -1,7 +1,6 @@
 public class Square extends Shape {
 
-    private double side1;
-
+    private final double side1;
 
     public Square(double side1) {
         this.side1 = side1;
