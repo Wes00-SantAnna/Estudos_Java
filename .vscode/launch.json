@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main (Lista 4 - Ex 1)",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "POO2",
+            "cwd": "${workspaceFolder}/Lista_4/ex_1"
+        }
+    ]
+}
