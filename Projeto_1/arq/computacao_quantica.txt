@@ -1,0 +1,89 @@
+Computação Quântica: Uma Revolução no Cálculo
+
+A computação quântica é um dos campos mais promissores e desafiadores da
+ciência e da tecnologia contemporânea. Diferente da computação clássica,
+que se baseia em bits representados por 0 e 1, a computação quântica
+utiliza as propriedades da mecânica quântica, como superposição,
+entrelaçamento e interferência, para processar informações de maneira
+inovadora e potencialmente muito mais eficiente em certos tipos de
+problemas.
+
+Fundamentos da Computação Quântica
+
+1.  Bits vs. Qubits Na computação clássica, a unidade fundamental de
+    informação é o bit, que só pode assumir dois estados: 0 ou 1. Já na
+    computação quântica, a unidade é o qubit (quantum bit). Um qubit
+    pode representar 0, 1 ou uma superposição desses estados, ou seja,
+    estar em ambos ao mesmo tempo, até ser medido.
+
+2.  Superposição Graças à superposição, um qubit pode carregar múltiplas
+    informações simultaneamente. Isso permite que sistemas quânticos
+    realizem cálculos paralelos de maneira natural, acelerando a
+    resolução de certos problemas.
+
+3.  Entrelaçamento (ou Emaranhamento) Quando dois ou mais qubits estão
+    entrelaçados, o estado de um depende diretamente do estado do outro,
+    independentemente da distância que os separa. Esse fenômeno garante
+    correlações extremamente fortes, essenciais para algoritmos
+    quânticos e protocolos de comunicação segura.
+
+4.  Interferência O princípio da interferência é utilizado para reforçar
+    as probabilidades de resultados corretos e cancelar os errados
+    durante a execução de algoritmos.
+
+Algoritmos Quânticos Importantes
+
+-   Algoritmo de Shor (1994): Permite fatorar números grandes de forma
+    exponencialmente mais rápida do que os melhores algoritmos clássicos
+    conhecidos. Esse feito ameaça sistemas de criptografia amplamente
+    usados atualmente, como RSA.
+
+-   Algoritmo de Grover (1996): Proporciona uma busca mais rápida em
+    bases de dados não estruturadas, reduzindo o tempo de pesquisa de
+    forma quadrática.
+
+Esses exemplos mostram como a computação quântica pode resolver
+problemas considerados impraticáveis para computadores clássicos.
+
+Desafios da Computação Quântica
+
+Apesar de seu potencial, a computação quântica ainda enfrenta enormes
+obstáculos técnicos:
+
+-   Decoerência quântica: Os estados quânticos são extremamente frágeis
+    e podem se perder rapidamente devido à interação com o ambiente.
+-   Correção de erros: A necessidade de desenvolver códigos de correção
+    de erros quânticos é crucial, pois até pequenas imprecisões podem
+    comprometer cálculos inteiros.
+-   Escalabilidade: Construir computadores com um número grande de
+    qubits estáveis e controláveis é um desafio de engenharia
+    monumental.
+
+Aplicações Potenciais
+
+A computação quântica promete transformar diversos setores:
+
+-   Criptografia: Com a possibilidade de quebrar sistemas clássicos, ao
+    mesmo tempo em que permite criar novos protocolos de comunicação
+    inquebráveis.
+-   Inteligência Artificial: Algoritmos quânticos podem acelerar o
+    treinamento de modelos complexos de machine learning.
+-   Química e Farmacologia: Simulações de moléculas complexas podem
+    levar à descoberta de novos materiais e medicamentos.
+-   Otimização: Problemas logísticos e de alocação de recursos podem ser
+    resolvidos de forma mais eficiente.
+
+O Presente e o Futuro
+
+Atualmente, empresas como IBM, Google e startups especializadas estão
+desenvolvendo protótipos de computadores quânticos. A Google, por
+exemplo, anunciou em 2019 que atingiu a chamada supremacia quântica,
+realizando um cálculo que seria impraticável em supercomputadores
+clássicos. Embora tais máquinas ainda não sejam úteis em larga escala,
+representam passos fundamentais para o futuro.
+
+O avanço da computação quântica dependerá de progressos contínuos em
+física, engenharia, ciência da computação e até em matemática. Se os
+desafios forem superados, ela poderá inaugurar uma nova era da
+tecnologia, comparável à revolução que os computadores clássicos
+causaram no século XX.

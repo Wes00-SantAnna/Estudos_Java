@@ -1,0 +1,46 @@
+Java: Linguagem de Programação Versátil e Robusta
+
+O Java é uma das linguagens de programação mais populares e influentes
+do mundo. Criada em 1995 pela Sun Microsystems (hoje pertencente à
+Oracle), a linguagem foi projetada para ser simples, orientada a objetos
+e independente de plataforma, tornando-se uma escolha fundamental no
+desenvolvimento de sistemas corporativos, aplicativos móveis e soluções
+para a web.
+
+Principais Características do Java
+
+1.  Independência de Plataforma O lema do Java é “write once, run
+    anywhere” (escreva uma vez, execute em qualquer lugar). Isso é
+    possível graças à Máquina Virtual Java (JVM), que permite que o
+    mesmo código seja executado em diferentes sistemas operacionais.
+
+2.  Orientação a Objetos O Java é totalmente orientado a objetos, o que
+    facilita a organização e manutenção de projetos complexos,
+    promovendo reuso e modularidade do código.
+
+3.  Segurança e Confiabilidade A linguagem foi desenvolvida com forte
+    foco em segurança, oferecendo recursos como verificação de bytecode
+    e gerenciamento automático de memória através do garbage collector.
+
+4.  Ampla Biblioteca Padrão O Java possui uma extensa API, que inclui
+    desde coleções de dados até ferramentas para redes, interfaces
+    gráficas e acesso a banco de dados.
+
+Principais Aplicações
+
+-   Desenvolvimento de Aplicativos Web: Com frameworks como Spring e
+    Jakarta EE.
+-   Aplicativos Móveis: É a base para o desenvolvimento de apps Android.
+-   Sistemas Corporativos: Muito utilizado em bancos, seguradoras e
+    empresas de grande porte.
+-   Computação em Nuvem: Soluções modernas em cloud frequentemente
+    utilizam Java pela sua robustez.
+
+O Presente e o Futuro do Java
+
+Mesmo após quase três décadas de existência, o Java continua em
+constante evolução. As versões mais recentes trazem melhorias na
+performance, novas funcionalidades e maior integração com paradigmas
+modernos, como programação funcional e microsserviços. Assim, o Java
+permanece como uma tecnologia essencial para desenvolvedores e empresas
+ao redor do mundo.
