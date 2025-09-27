@@ -1,0 +1,16 @@
+package Lista_5.ex_4;
+
+public class Cachorro extends Animal {
+    public Cachorro(String nome, int idade) {
+        super(nome, idade); 
+    }
+
+    @Override
+    public void fazerSom() {
+        System.out.println(nome + " diz: Au Au!");
+    }
+
+    public void buscarBolinha() {
+        System.out.println(nome + " está correndo atrás da bolinha!");
+    }
+}
